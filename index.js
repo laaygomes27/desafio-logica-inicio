@@ -26,7 +26,7 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**" */
 
 let heroi = [
-    {nome: "marcos", xp: 2469}
+    {nome: "gohan", xp: 1910}
 
 ]
  for (let repeticao = 0; repeticao < heroi.length; repeticao++) {
